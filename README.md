@@ -13,3 +13,9 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+### Step 4 - Connect with git hub
+
+```bash
+python main.py
+```
