@@ -13,3 +13,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Step 3 - Dump records in MongoDB by connecting it
+
+```bash
+python main.py
+```
