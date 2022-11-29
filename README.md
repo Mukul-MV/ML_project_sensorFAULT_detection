@@ -15,6 +15,8 @@ python main.py
 ```
 ### Step 3 - Dump records in MongoDB by connecting it
 
+### Step 4 - Connect with git hub
+
 ```bash
 python main.py
 ```
